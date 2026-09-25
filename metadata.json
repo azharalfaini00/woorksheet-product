@@ -1,0 +1,8 @@
+{
+  "name": "WORKSHEET PRODUCT DIGITAL",
+  "description": "Worksheet Blueprint Generator: Ubah ide worksheet Anda menjadi Master Prompt AI yang kreatif, variatif, terstruktur, dan siap digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
